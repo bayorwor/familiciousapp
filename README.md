@@ -12,11 +12,10 @@ A Flutter application that allows users to post with full authentication
 
 </p>
 
-
-This project is an implementation of a Design i found on [uigaints.com](https://uigiants.com/etsadhakal8888?posts=1129-Easy-Task-Create-Assign-UX) by [Ashish Dhakal](https://uigiants.com/etsadhakal8888).
+This project was built during a training session and improved upon it after the training.
 
 <p>
-The Backend was coded with Nodejs and serverless with Postgres Database and Firebase Auth. Location the code [here](https://github.com/RegNex/TaskyBackendService)
+Firebase was used as Backend as a service for the application. Tools used in firebase include firestore, authntication and storage as a bucket for images
 </p>
 
 ## Art
@@ -24,13 +23,10 @@ The Backend was coded with Nodejs and serverless with Postgres Database and Fire
 <br>
    
 <tr>
-    <td><img width="200" alt="Screen Shot 2021-10-21 at 10 24 40 PM" src="https://user-images.githubusercontent.com/49689322/138366134-a7716b4b-7ff8-4230-9845-f2058a526d1f.png" /></td>
-    <td><img width="200" alt="Screen Shot 2021-10-21 at 10 25 07 PM" src="https://user-images.githubusercontent.com/49689322/138366189-4153b351-f2e1-49ed-b534-0efc869aa834.png" /></td> 
-</tr>
-
-<tr>
-    <td><img width="200" alt="Screen Shot 2021-10-21 at 10 25 30 PM" src="https://user-images.githubusercontent.com/49689322/138366208-c72ff0b4-45b3-4c0d-90be-761f6da00628.png" /></td>
-    <td><img width="200" alt="Screen Shot 2021-10-21 at 10 29 31 PM" src="https://user-images.githubusercontent.com/49689322/138366230-603151fc-e21a-4f44-a0bf-bf528e92beb4.png" /></td> 
+    <td><img align="left" width="200" alt="Screen Shot 2021-10-21 at 10 24 40 PM" src="https://user-images.githubusercontent.com/49689322/138366134-a7716b4b-7ff8-4230-9845-f2058a526d1f.png" />
+    <img align="left" width="200" alt="Screen Shot 2021-10-21 at 10 25 07 PM" src="https://user-images.githubusercontent.com/49689322/138366189-4153b351-f2e1-49ed-b534-0efc869aa834.png" />
+    <img  align="left"  width="200" alt="Screen Shot 2021-10-21 at 10 25 30 PM" src="https://user-images.githubusercontent.com/49689322/138366208-c72ff0b4-45b3-4c0d-90be-761f6da00628.png" />
+    <img width="200" alt="Screen Shot 2021-10-21 at 10 29 31 PM" src="https://user-images.githubusercontent.com/49689322/138366230-603151fc-e21a-4f44-a0bf-bf528e92beb4.png" /></td> 
 </tr>
 ## Getting Started
 
@@ -44,7 +40,7 @@ cd folder/to/clone-into/
 ```
 
 ```
-git clone https://github.com/RegNex/Tasky.git
+git clone https://github.com/bayorwor/familiciousapp
 ```
 
 Then
@@ -110,22 +106,22 @@ What things you need to run the app
 
 ## Author 😊
 
-**Etornam Sunu Bright**
+**Bayorwor Abudu**
 
-- [**Twitter**](https://bit.ly/3ivb9GC)
-- [**Linkedin**](https://bit.ly/3iyxOl8)
+- [**Twitter**](https://twitter.com/FreSHGh8)
+- [**Linkedin**](https://www.linkedin.com/in/abudu-bayorwor-02a4511a5/)
 
 ## Inspiration
 
-**Ashish Dhakal**
+**Etornam Sunu Bright**
 
-- [**https://uigiants.com/etsadhakal8888**](https://uigiants.com/etsadhakal8888?posts=1129-Easy-Task-Create-Assign-UX)
+- He was the Facilitator for this session 🙏🤝🙈
 
 ## License
 
 MIT License
 
-Copyright (c) 2021 Etornam Sunu
+Copyright (c) 2021 Bayorwor Abudu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
