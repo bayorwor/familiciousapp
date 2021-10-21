@@ -12,6 +12,7 @@ A Flutter application that allows users to post with full authentication
 
 </p>
 
+
 This project is an implementation of a Design i found on [uigaints.com](https://uigiants.com/etsadhakal8888?posts=1129-Easy-Task-Create-Assign-UX) by [Ashish Dhakal](https://uigiants.com/etsadhakal8888).
 
 <p>
@@ -20,22 +21,17 @@ The Backend was coded with Nodejs and serverless with Postgres Database and Fire
 
 ## Art
 
-<img src="https://github.com/RegNex/Tasky/blob/main/screenshots/tasky.png?raw=true" width="100%"  height="50%"/>
 <br>
    
 <tr>
-    <td><img align="left" src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_1.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_2.png?raw=true" width="200" height="400"/></td> 
-</tr>
-<tr>
-    <td><img align="left" src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_3.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_4.png?raw=true" width="200" height="400"/></td> 
-</tr>
-<tr>
-    <td><img align="left" src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_5.png?raw=true" width="200" height="400"/></td>
-    <td><img src="https://github.com/RegNex/Tasky/blob/main/screenshots/screenshot_6.png?raw=true" width="200" height="400"/></td> 
+    <td><img width="200" alt="Screen Shot 2021-10-21 at 10 24 40 PM" src="https://user-images.githubusercontent.com/49689322/138366134-a7716b4b-7ff8-4230-9845-f2058a526d1f.png" /></td>
+    <td><img width="200" alt="Screen Shot 2021-10-21 at 10 25 07 PM" src="https://user-images.githubusercontent.com/49689322/138366189-4153b351-f2e1-49ed-b534-0efc869aa834.png" /></td> 
 </tr>
 
+<tr>
+    <td><img width="200" alt="Screen Shot 2021-10-21 at 10 25 30 PM" src="https://user-images.githubusercontent.com/49689322/138366208-c72ff0b4-45b3-4c0d-90be-761f6da00628.png" /></td>
+    <td><img width="200" alt="Screen Shot 2021-10-21 at 10 29 31 PM" src="https://user-images.githubusercontent.com/49689322/138366230-603151fc-e21a-4f44-a0bf-bf528e92beb4.png" /></td> 
+</tr>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
