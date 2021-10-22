@@ -38,6 +38,8 @@ class _LoginViewState extends State<LoginView> {
                 size: 130,
               ),
               TextFormField(
+                style: TextStyle(
+                    color: Theme.of(context).textTheme.caption!.color),
                 controller: _emailController,
                 keyboardType: TextInputType.emailAddress,
                 decoration: InputDecoration(label: Text("Email")),
@@ -54,7 +56,8 @@ class _LoginViewState extends State<LoginView> {
                 height: 15,
               ),
               TextFormField(
-                style: TextStyle(color: Colors.white),
+                style: TextStyle(
+                    color: Theme.of(context).textTheme.caption!.color),
                 controller: _passwordController,
                 keyboardType: TextInputType.visiblePassword,
                 decoration: const InputDecoration(label: Text("Password")),
