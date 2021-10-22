@@ -22,7 +22,7 @@ class _HomeViewState extends State<HomeView> {
 
   int _currentIndex = 0;
   final List<Widget> _views = [
-    const TimeLineView(),
+    TimeLineView(),
     const ChatView(),
     const FavoriteVIew(),
     ProfileView()
